@@ -1,0 +1,8 @@
+
+target/
+dbt_packages/
+logs/
+logs/
+target/
+*.duckdb
+profiles.yml
