@@ -39,6 +39,11 @@ Raw Data → Staging Layer → Final Models
 - Git & GitHub
 
 ---
+## 📊 Data Lineage
+
+<img width="1316" height="602" alt="Screenshot (4)" src="https://github.com/user-attachments/assets/82e72ac6-422e-4597-8030-6dac50008831" />
+
+---
 
 ## 🚀 How to Run
 
@@ -48,6 +53,5 @@ dbt run
 dbt test
 dbt docs generate
 dbt docs serve
-
+```
 ---
-Built by Kenzy as part of Data Engineering learning journey.
